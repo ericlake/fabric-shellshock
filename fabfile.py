@@ -7,6 +7,7 @@ env.connection_attempts = 1
 env.command_timeout = 120
 env.abort_on_prompts = 1
 env.skip_bad_hosts = 1
+env.use_ssh_config = True
 
 ###############
 # Exposed tasks
